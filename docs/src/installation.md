@@ -29,4 +29,4 @@ The official name of the plugin is: **Algolia Search for WordPress**.
 Here is a list of known incompatibilities with other plugins. Be sure you go through them as you are installing the plugin:
 
 **W3 Total Cache:**
-- Object caching may cause admin UI to no display indexing status in realtime.
+- Object caching may cause admin UI to not display indexing status in realtime.
